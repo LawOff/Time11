@@ -119,6 +119,5 @@ if __name__ == '__main__':
     blur(HWND,hexColor="#12121240")
     #root.protocol('WM_DELETE_WINDOW', Countdown().hide_window)
     Countdown(root,10).pack()
-    print("ok")
     root.mainloop()
     
