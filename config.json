@@ -1,0 +1,12 @@
+{
+  "theme": "Light",
+  "notify": false,
+  "ontop": false,
+  "transperency": 0.99,
+  "sound": true,
+  "default_minutes": 0,
+  "default_hours": 0,
+  "default_seconds": 5,
+  "sound_path": "assets/sounds/sound1.wav",
+  "version": "1.1"
+}

@@ -2,7 +2,7 @@
   "color": {
     "window_bg_color": ["gray98", "gray1"],
     "button": ["#608BD5", "#212121"],
-    "button_hover": ["#A4BDE6", "#748BB3"],
+    "button_hover": ["#A4BDE6", "#dd2c56"],
     "button_border": ["gray40", "gray70"],
     "checkbox_border": ["gray40", "gray60"],
     "checkmark": ["white", "gray90"],
