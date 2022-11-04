@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://i.imgur.com/qaPtq5v.png" />
-  <h3>  A fluent countdown app made using Customtkinter </h3>
+  <p align="center"> A fluent countdown app made using Customtkinter </p>
 </div>
 
 <p align="center">
